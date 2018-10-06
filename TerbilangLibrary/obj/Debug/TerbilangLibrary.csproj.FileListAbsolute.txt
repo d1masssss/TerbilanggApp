@@ -1,0 +1,9 @@
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
+E:\Pemograman Lanjut\C#\GITHUB\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+E:\Pemograman Lanjut\C#\GITHUB\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+E:\Pemograman Lanjut\C#\GITHUB\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+E:\Pemograman Lanjut\C#\GITHUB\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+E:\Pemograman Lanjut\C#\GITHUB\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
